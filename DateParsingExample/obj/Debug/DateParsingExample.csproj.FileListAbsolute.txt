@@ -1,0 +1,7 @@
+C:\Users\daniil\source\repos\DateParsingExample\DateParsingExample\bin\Debug\DateParsingExample.exe.config
+C:\Users\daniil\source\repos\DateParsingExample\DateParsingExample\bin\Debug\DateParsingExample.exe
+C:\Users\daniil\source\repos\DateParsingExample\DateParsingExample\bin\Debug\DateParsingExample.pdb
+C:\Users\daniil\source\repos\DateParsingExample\DateParsingExample\obj\Debug\DateParsingExample.csproj.AssemblyReference.cache
+C:\Users\daniil\source\repos\DateParsingExample\DateParsingExample\obj\Debug\DateParsingExample.csproj.CoreCompileInputs.cache
+C:\Users\daniil\source\repos\DateParsingExample\DateParsingExample\obj\Debug\DateParsingExample.exe
+C:\Users\daniil\source\repos\DateParsingExample\DateParsingExample\obj\Debug\DateParsingExample.pdb
